@@ -59,5 +59,5 @@ signature:  5b4F7TRVRZWLHEb8TYUQpfHwtPghaw9uhcY6yiFg2hBUGF5WWHW2jDC1RmZ8XYLS7F2N
 - Если скрипт отработал нормально, видим примерно такое:
 
 ![scr0](assets/image-40.png)
-
-[^1]: [Lazy Mint](https://www.alchemy.com/overviews/lazy-minting#what-is-lazy-minting-2)
+<br>
+> Прим. По невыясненным пока причинам, скрипт отрабатывает не всегда. Возможны ошибки. **
